@@ -25,5 +25,8 @@ robocopy D:\ E:\ /S /E /Z /ZB /R:15 /W:5 /TBD /est /V /MT:12
 * At the end of this script, it closes. In the future there will be plans to ask for another source/destination.
 * This only works on Windows 7/8/10. 
 
+-- License to use and limitations --
+You are free to use this project for personal, non-commercial use. You may fork this project and modify it to your liking so long as you give credit where credit is due. I encourage you to improve this script and submit your changes to the project.
+  
 -- DISCLAIMER --
 I will not be held responsible for data loss while using this script. You assume all responsibility when using this tool. By using this tool you assume all legal liability and will use it at your own risk. 
