@@ -31,6 +31,7 @@ robocopy D:\ E:\ /S /E /Z /ZB /R:15 /W:5 /TBD /est /V /MT:12
 * This only works on Windows 7/8/10. 
 
 -- License to use and limitations --
+  
 You are free to use this project for personal, non-commercial use. You may fork this project and modify it to your liking so long as you give credit where credit is due. I encourage you to improve this script and submit your changes to the project.
   
 -- DISCLAIMER --
