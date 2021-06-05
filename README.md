@@ -26,7 +26,7 @@ robocopy D:\ E:\ /S /E /Z /ZB /R:15 /W:5 /TBD /est /V /MT:12
 -- Limitations --
   
 * At this time, this script does not prompt you to choose a source and destination. In future releases, this will be implemented.
-* You must run Command Prompt or PowerShell as an Administrator. This script doesn't invoke UAC for you. 
+* You must run Command Prompt or PowerShell as an Administrator. This script doesn't invoke UAC for you. (This issue has been resolved as of Version 1.1 Beta 1)
 * At the end of this script, it closes. In the future there will be plans to ask for another source/destination.
 * This only works on Windows 7/8/10. 
 
